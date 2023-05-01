@@ -1,4 +1,4 @@
-The official source code for [Django for Beginners 4.0](https://djangoforbeginners.com/). Available as an [ebook](https://gum.co/aFiMm) or in [Paperback](https://www.amazon.com/dp/1983172669/?tag=wsvincent-20).
+The official source code for [Django for Beginners 4.0](https://djangoforbeginners.com/). Available as an [ebook](https://gum.co/aFiMm) or in [Paperback](https://www.amazon.com/dp/1735467200/?tag=wsvincent-20).
 
 [![Cover](bookcover40.jpg)](https://djangoforbeginners.com/)
 
